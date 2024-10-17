@@ -32,7 +32,11 @@ This notebook is ideal for students and practitioners who want to explore large 
 
 ## Getting Started
 
-To get started with either of these notebooks, make sure to have the necessary libraries installed in your Python environment. Both notebooks require Python 3.x to run properly.
+To get started with either of these notebooks, make sure to have the necessary libraries installed in your Python environment. Both notebooks require Python 3.x to run properly. Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/spaceie08/NoSQL-Dask.git
+```
 
 ---
 
